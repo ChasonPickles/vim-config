@@ -1,0 +1,8 @@
+:set relativenumber
+
+nmap dw diw
+nmap cw ciw
+
+:set incsearch
+:set hlsearch
+nnoremap <esc> :noh<return><esc>
